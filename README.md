@@ -10,5 +10,5 @@ This project was developed as part of The Complete JavaScript Course 2019 on ude
 - Event Bubbling
 - Use additional libraries via yarn
 
-#Personal Considerations
+# Personal Considerations
 This was the final project of the udemy javascript course and also the biggest, the most complex and challenged one. In this project I had the opportunit to work with some technologies that i've looking for such as webpack, babel, and asynchronous Javascript. I figured out that most of my mistakes were syntatical so I decided to start to use ESLint to autocorrect my files. At the end of this project I am feeling confident to put these new concepts in practice by my own in future projects.
